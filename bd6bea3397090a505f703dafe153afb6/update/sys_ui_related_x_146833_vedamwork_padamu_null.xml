@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_146833_vedamwork_padamu" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="padamu - Default view" name="x_146833_vedamwork_padamu" related_list="NULL" sys_domain="global" view="Default view">bb86fe77974d0a505f703dafe153afe4</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_146833_vedamwork_ghanapadamu.padamu</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-27 02:25:18</sys_created_on>
+            <sys_id>f786fe77974d0a505f703dafe153afe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-27 02:25:18</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>padamu - Default view</calculated_name>
+            <filter/>
+            <name>x_146833_vedamwork_padamu</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-27 02:25:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bb86fe77974d0a505f703dafe153afe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>padamu - Default view</sys_name>
+            <sys_package display_value="VedamWorks" source="x_146833_vedamwork">bd6bea3397090a505f703dafe153afb6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="VedamWorks">bd6bea3397090a505f703dafe153afb6</sys_scope>
+            <sys_update_name>sys_ui_related_x_146833_vedamwork_padamu_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-27 02:25:18</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

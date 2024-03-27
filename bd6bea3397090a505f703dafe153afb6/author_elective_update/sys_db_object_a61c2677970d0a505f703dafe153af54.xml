@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>padam</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_146833_vedamwork_padam</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 01:39:37</sys_created_on>
+        <sys_id>a61c2677970d0a505f703dafe153af54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vedamwork Padam</sys_name>
+        <sys_package display_value="VedamWorks" source="x_146833_vedamwork">bd6bea3397090a505f703dafe153afb6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VedamWorks">bd6bea3397090a505f703dafe153afb6</sys_scope>
+        <sys_update_name>sys_db_object_a61c2677970d0a505f703dafe153af54</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 01:39:37</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="VedamWorks">bd6bea3397090a505f703dafe153afb6</application>
+        <file_path/>
+        <instance_id>718e66cfdbf35d501955c59705961952</instance_id>
+        <instance_name>dev146776</instance_name>
+        <name>sys_db_object_a61c2677970d0a505f703dafe153af54</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>padam</label><live_feed_enabled>false</live_feed_enabled><name>x_146833_vedamwork_padam</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-27 01:39:37</sys_created_on><sys_id>a61c2677970d0a505f703dafe153af54</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Vedamwork Padam</sys_name><sys_package display_value="VedamWorks" source="x_146833_vedamwork">bd6bea3397090a505f703dafe153afb6</sys_package><sys_policy/><sys_scope display_value="VedamWorks">bd6bea3397090a505f703dafe153afb6</sys_scope><sys_update_name>sys_db_object_a61c2677970d0a505f703dafe153af54</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-27 01:39:37</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>644039737</payload_hash>
+        <record_name>padam</record_name>
+        <reverted_from/>
+        <source>396b2637970d0a505f703dafe153afd2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 01:39:38</sys_created_on>
+        <sys_id>3a1c2677970d0a505f703dafe153af8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e7d9012a20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 01:39:38</sys_updated_on>
+        <type>Table</type>
+        <update_guid>6e1c2677ab0d0a504f4dc8f94c16d28d</update_guid>
+        <update_guid_history>6e1c2677ab0d0a504f4dc8f94c16d28d:644039737</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 01:50:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>321e1880c390424495b4c174d35ab184</sys_id>
+        <sys_metadata>a61c2677970d0a505f703dafe153af54</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vedamwork Padam</sys_name>
+        <sys_package display_value="VedamWorks" source="x_146833_vedamwork">bd6bea3397090a505f703dafe153afb6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="VedamWorks">bd6bea3397090a505f703dafe153afb6</sys_scope>
+        <sys_scope_delete display_value="">0caf44c874d34e4480f6dd5a6f844241</sys_scope_delete>
+        <sys_update_name>sys_db_object_a61c2677970d0a505f703dafe153af54</sys_update_name>
+        <sys_update_version display_value="sys_db_object_a61c2677970d0a505f703dafe153af54">3a1c2677970d0a505f703dafe153af8e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 01:50:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

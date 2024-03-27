@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="a61c2677970d0a505f703dafe153af54" label="padam" max_length="40" name="x_146833_vedamwork_padam" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="Padam" max_length="4000" name="padam" type="string"/>
-    </element>
-</database>
