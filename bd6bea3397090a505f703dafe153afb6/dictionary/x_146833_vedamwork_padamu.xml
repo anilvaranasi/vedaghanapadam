@@ -4,6 +4,7 @@
         <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="40" name="name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Padamu" max_length="4000" name="padamu" type="string"/>
         <element label="veda" max_length="32" name="veda" reference="x_146833_vedamwork_veda" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Word list" max_length="4000" name="word_list" type="string"/>
         <index name="index">
             <element name="mantram"/>
         </index>
