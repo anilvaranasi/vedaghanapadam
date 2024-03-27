@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c78d2ef7970d0a505f703dafe153af9a" label="Mantram" max_length="40" name="x_146833_vedamwork_mantram" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Mantram" max_length="4000" name="mantram" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="veda" max_length="32" name="veda" reference="x_146833_vedamwork_veda" type="reference"/>
+        <index name="index">
+            <element name="veda"/>
+        </index>
+    </element>
+</database>

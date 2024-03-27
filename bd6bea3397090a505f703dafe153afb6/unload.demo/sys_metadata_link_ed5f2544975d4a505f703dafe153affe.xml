@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>030fa544975d4a505f703dafe153af55</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_146833_vedamwork_meaning">
+    <x_146833_vedamwork_meaning action="INSERT_OR_UPDATE">
+        <mantram display_value="అన్తాకాయ మృత్యవే నమః">9da0b27f970d0a505f703dafe153af86</mantram>
+        <meaning>సర్య(పాజి నాశకర్త అగు మృత్యుదేవునకు నమస్కారం,&#13;
+ఓ అయుష్కూముడా |!నీ |పాణాపాన వాయువులు&#13;
+ఈ శరీరమునందే రమించుగాక |&#13;
+(పాణ [పచ్యుతిసి శుకిస్తన్న&#13;
+ఈ పురుషుడు [పాణసహితుడై&#13;
+ఈ భూలోకంలోనే ఉండు గాక |&#13;
+సూర్యుని భాగమైన భూలోకంలో '&#13;
+అమృతస్థానంలో ఉండుగాక </meaning>
+        <name>అన్తాకాయ మృత్యవే నమః</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 15:52:28</sys_created_on>
+        <sys_id>030fa544975d4a505f703dafe153af55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 15:52:28</sys_updated_on>
+        <veda display_value="Atharvana veda">7d20f63f970d0a505f703dafe153af0a</veda>
+    </x_146833_vedamwork_meaning>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 15:52:36</sys_created_on>
+        <sys_id>ed5f2544975d4a505f703dafe153affe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>అన్తాకాయ మృత్యవే నమః</sys_name>
+        <sys_package display_value="VedamWorks" source="x_146833_vedamwork">bd6bea3397090a505f703dafe153afb6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VedamWorks">bd6bea3397090a505f703dafe153afb6</sys_scope>
+        <sys_update_name>sys_metadata_link_ed5f2544975d4a505f703dafe153affe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 15:52:36</sys_updated_on>
+        <tablename>x_146833_vedamwork_meaning</tablename>
+    </sys_metadata_link>
+</record_update>

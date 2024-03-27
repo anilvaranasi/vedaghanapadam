@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 01:46:22</sys_created_on>
+        <sys_id>a9ad263b970d0a505f703dafe153af37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_146833_vedamwork_mantram.x_146833_vedamwork.mantram_user</sys_name>
+        <sys_package display_value="VedamWorks" source="x_146833_vedamwork">bd6bea3397090a505f703dafe153afb6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VedamWorks">bd6bea3397090a505f703dafe153afb6</sys_scope>
+        <sys_security_acl display_value="x_146833_vedamwork_mantram">e9ad263b970d0a505f703dafe153af31</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a9ad263b970d0a505f703dafe153af37</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 01:46:22</sys_updated_on>
+        <sys_user_role display_value="x_146833_vedamwork.mantram_user" name="x_146833_vedamwork.mantram_user">0dad623b970d0a505f703dafe153af9b</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

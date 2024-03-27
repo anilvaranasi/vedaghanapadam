@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c4bbaa37970d0a505f703dafe153af7c" label="Veda" max_length="40" name="x_146833_vedamwork_veda" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Link" max_length="1024" name="link" type="url"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="parent link" max_length="1024" name="parent_link" type="url"/>
+    </element>
+</database>

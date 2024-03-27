@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="633ce677970d0a505f703dafe153af87" label="meaning" max_length="40" name="x_146833_vedamwork_meaning" type="collection">
+        <element label="Mantram" max_length="32" name="mantram" reference="x_146833_vedamwork_mantram" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Meaning" max_length="4000" name="meaning" type="string"/>
+        <element display="true" label="name" max_length="40" name="name" type="string"/>
+        <element label="Veda" max_length="32" name="veda" reference="x_146833_vedamwork_veda" type="reference"/>
+        <index name="index">
+            <element name="mantram"/>
+        </index>
+        <index name="index2">
+            <element name="veda"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="DELETE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <description/>
+        <name>padam Detail Screen View Config</name>
+        <scratchpad_script/>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 01:41:36</sys_created_on>
+        <sys_id>278ce2b7970d0a505f703dafe153afeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>padam Detail Screen View Config</sys_name>
+        <sys_package display_value="VedamWorks" source="x_146833_vedamwork">bd6bea3397090a505f703dafe153afb6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VedamWorks">bd6bea3397090a505f703dafe153afb6</sys_scope>
+        <sys_update_name>sys_sg_view_config_278ce2b7970d0a505f703dafe153afeb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 01:41:36</sys_updated_on>
+        <table>x_146833_vedamwork_padam</table>
+        <template display_value="Template 01">6bb0be5c41a71010f877183fc9b8be0c</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="DELETE" query="documentkey=278ce2b7970d0a505f703dafe153afeb"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="VedamWorks">bd6bea3397090a505f703dafe153afb6</application>
+        <file_path/>
+        <instance_id>718e66cfdbf35d501955c59705961952</instance_id>
+        <instance_name>dev146776</instance_name>
+        <name>sys_sg_view_config_278ce2b7970d0a505f703dafe153afeb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config"><sys_sg_view_config action="INSERT_OR_UPDATE"><active>true</active><advanced>false</advanced><description/><name>padam Detail Screen View Config</name><scratchpad_script/><sys_class_name>sys_sg_view_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-27 01:41:36</sys_created_on><sys_id>278ce2b7970d0a505f703dafe153afeb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>padam Detail Screen View Config</sys_name><sys_package display_value="VedamWorks" source="x_146833_vedamwork">bd6bea3397090a505f703dafe153afb6</sys_package><sys_policy/><sys_scope display_value="VedamWorks">bd6bea3397090a505f703dafe153afb6</sys_scope><sys_update_name>sys_sg_view_config_278ce2b7970d0a505f703dafe153afeb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-27 01:41:36</sys_updated_on><table>x_146833_vedamwork_padam</table><template display_value="Template 01">6bb0be5c41a71010f877183fc9b8be0c</template></sys_sg_view_config><sys_translated_text action="delete_multiple" query="documentkey=278ce2b7970d0a505f703dafe153afeb"/></record_update>]]></payload>
+        <payload_hash>-536405060</payload_hash>
+        <record_name>padam Detail Screen View Config</record_name>
+        <reverted_from/>
+        <source>396b2637970d0a505f703dafe153afd2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 01:41:39</sys_created_on>
+        <sys_id>1c9c66b7970d0a505f703dafe153af07</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e7d91ec340000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 01:41:39</sys_updated_on>
+        <type>Card</type>
+        <update_guid>509c66b7740d0a50fabc5466cbadf107</update_guid>
+        <update_guid_history>509c66b7740d0a50fabc5466cbadf107:-536405060</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 01:50:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_config">sys_sg_view_config</sys_db_object>
+        <sys_id>05a02c082b0240a580654f9204462ba1</sys_id>
+        <sys_metadata>278ce2b7970d0a505f703dafe153afeb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>padam Detail Screen View Config</sys_name>
+        <sys_package display_value="VedamWorks" source="x_146833_vedamwork">bd6bea3397090a505f703dafe153afb6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="VedamWorks">bd6bea3397090a505f703dafe153afb6</sys_scope>
+        <sys_scope_delete display_value="">0caf44c874d34e4480f6dd5a6f844241</sys_scope_delete>
+        <sys_update_name>sys_sg_view_config_278ce2b7970d0a505f703dafe153afeb</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_config_278ce2b7970d0a505f703dafe153afeb">1c9c66b7970d0a505f703dafe153af07</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 01:50:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
