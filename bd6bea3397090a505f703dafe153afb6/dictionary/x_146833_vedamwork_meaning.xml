@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="633ce677970d0a505f703dafe153af87" label="meaning" max_length="40" name="x_146833_vedamwork_meaning" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Meaning" max_length="4000" name="meaning" type="string"/>
+    </element>
+</database>

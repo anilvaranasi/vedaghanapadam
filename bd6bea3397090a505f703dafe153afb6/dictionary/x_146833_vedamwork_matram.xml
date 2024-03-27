@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a2fb6277970d0a505f703dafe153af57" label="matram" max_length="40" name="x_146833_vedamwork_matram" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Matram" max_length="4000" name="matram" type="string"/>
+        <element attributes="encode_utf8=false" label="Veda" max_length="32" name="veda" reference="x_146833_vedamwork_veda" type="reference"/>
+        <index name="index">
+            <element name="veda"/>
+        </index>
+    </element>
+</database>
