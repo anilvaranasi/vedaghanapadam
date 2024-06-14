@@ -2,31 +2,49 @@
     <sys_script_fix action="INSERT_OR_UPDATE">
         <before>false</before>
         <description/>
-        <name>VA-CountWordsAtharvanaVedam</name>
+        <name>VA-CountWordsYajurVedam</name>
         <record_for_rollback>false</record_for_rollback>
         <script><![CDATA[var sDebug = '';
 var wordList = '';
+ //var presentLineSeparator = "॥";
+ //var lineSeparator = "%%";
+ var lineSeparator = "॥";
+ var wordSeparator = " ";
+ var replaceText1 = ' ।';
+ var replaceText2 = '। ';
+ var replaceText3 = '।';
+ var ghanapadam = '';
 var grPadamu = new GlideRecord('x_146833_vedamwork_padamu');
-grPadamu.get('91c27233974d0a505f703dafe153afcd');
+grPadamu.get('461de69f97e186105f703dafe153afc0');
 var wordArray = [];
 var padamuString = grPadamu.padamu;
+padamuString=GlideStringUtil.normalizeWhitespace(padamuString);
+//padamuString= GlideStringUtil.newLinesToBreaks(padamuString);
+//padamuString =padamuString.replace(presentLineSeparator,lineSeparator);
+//padamuString =padamuString.replaceAll(replaceText,' ');
 var innerString = '';
 var innerStringArray = [];
-//sDebug += "full= " + padamuString + "\n";
-//gs.info(sDebug);
-var padamuArray = padamuString.split('।');
+sDebug += "full= " + padamuString + "\n";
+
+var padamuArray = padamuString.split(lineSeparator);
 for (var index = 0; index < padamuArray.length; index++) {
-    if (padamuArray[index].indexOf('|') > -1) {
+	wordArray = [];
+    //if (padamuArray[index].indexOf(wordSeparator) > -1) {
         innerString = '';
         innerStringArray = [];
         innerString = padamuArray[index];
-        innerStringArray = innerString.split('|');
+		innerString = innerString.replace(replaceText1, '');
+		innerString = innerString.replace(replaceText2, '');
+		innerString = innerString.replace(replaceText3, '');
+		innerString = innerString.trim();		
+        innerStringArray = innerString.split(wordSeparator);
         for (var inIndex = 0; inIndex < innerStringArray.length; inIndex++) {
             wordArray.push(innerStringArray[inIndex].trim());
         }
-    } else {
-        wordArray.push(padamuArray[index].trim());
-    }
+    //} else {
+        //wordArray.push(padamuArray[index].trim());
+    //}
+	generateGhanapadam();
 }
 var k = 0;
 do {
@@ -35,11 +53,11 @@ do {
 } while (global.JSUtil.notNil(wordArray[k]));
 grPadamu.word_list = wordList;
 grPadamu.update();
-generateGhanapadam();
-gs.info("words from mantram padam:" + "\n" + sDebug);
+gs.info(sDebug);
+updateGhanapadam(ghanapadam);
+//gs.info("words from mantram padam:" + "\n" + sDebug);
 
 function generateGhanapadam() {
-    var ghanapadam = '';
     //12-21-123-321-123
     //lndex = 1 (i=0) 12-21-123-321-123
     //23-32-234-432-234
@@ -56,8 +74,7 @@ function generateGhanapadam() {
         }
         //ghanapadam = ghanapadam.replaceAll('undefined', ' ');
     }
-    sDebug += " ghanapadam = " + ghanapadam;
-    updateGhanapadam(ghanapadam);
+    sDebug += " ghanapadam = " + ghanapadam + "\n";
 }
 
 function updateGhanapadam(ghanapadam) {
@@ -71,16 +88,16 @@ function updateGhanapadam(ghanapadam) {
 }]]></script>
         <sys_class_name>sys_script_fix</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-03-27 06:14:26</sys_created_on>
-        <sys_id>2baa6bfb97414a505f703dafe153af03</sys_id>
-        <sys_mod_count>34</sys_mod_count>
-        <sys_name>VA-CountWordsAtharvanaVedam</sys_name>
+        <sys_created_on>2024-04-19 09:01:44</sys_created_on>
+        <sys_id>d3dd261b972986105f703dafe153afc9</sys_id>
+        <sys_mod_count>21</sys_mod_count>
+        <sys_name>VA-CountWordsYajurVedam</sys_name>
         <sys_package display_value="VedamWorks" source="x_146833_vedamwork">bd6bea3397090a505f703dafe153afb6</sys_package>
         <sys_policy/>
         <sys_scope display_value="VedamWorks">bd6bea3397090a505f703dafe153afb6</sys_scope>
-        <sys_update_name>sys_script_fix_2baa6bfb97414a505f703dafe153af03</sys_update_name>
+        <sys_update_name>sys_script_fix_d3dd261b972986105f703dafe153afc9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-19 09:01:30</sys_updated_on>
+        <sys_updated_on>2024-04-20 09:53:59</sys_updated_on>
         <unloadable>false</unloadable>
     </sys_script_fix>
 </record_update>
