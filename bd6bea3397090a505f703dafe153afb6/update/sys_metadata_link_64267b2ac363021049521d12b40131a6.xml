@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>4365bbe6c363021049521d12b40131c7</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_146833_vedamwork_ghanapadamu">
+    <x_146833_vedamwork_ghanapadamu action="INSERT_OR_UPDATE">
+        <ghana_padamu>
+pramu̍ñcha̠ dhanva̍na̠stvamu̠bhayō̠rārtni̍-dhanva̍na̠stvamu̠bhayō̠rārtni̍ pramu̍ñcha̠-pramu̍ñcha̠ dhanva̍na̠stvamu̠bhayō̠rārtni̍ yō̠rjyām-yō̠rjyām dhanva̍na̠stvamu̠bhayō̠rārtni̍ pramu̍ñcha̠-pramu̍ñcha̠ dhanva̍na̠stvamu̠bhayō̠rārtni̍ yō̠rjyām**
+dhanva̍na̠stvamu̠bhayō̠rārtni̍ yō̠rjyām-yō̠rjyām dhanva̍na̠stvamu̠bhayō̠rārtni̍-dhanva̍na̠stvamu̠bhayō̠rārtni̍ yō̠rjyām tē̠-tē̠ yō̠rjyām dhanva̍na̠stvamu̠bhayō̠rārtni̍-dhanva̍na̠stvamu̠bhayō̠rārtni̍ yō̠rjyām tē̠**
+yō̠rjyām tē̠-tē̠ yō̠rjyām-yō̠rjyām tē̠ hasta̠-hasta̠ tē̠ yō̠rjyām-yō̠rjyām tē̠ hasta̠**
+tē̠ hasta̠-hasta̠ tē̠-tē̠ hasta̠ iṣa̍va̠ḥ-iṣa̍va̠ḥ hasta̠ tē̠-tē̠ hasta̠ iṣa̍va̠ḥ**
+hasta̠ iṣa̍va̠ḥ-iṣa̍va̠ḥ hasta̠-hasta̠ iṣa̍va̠ḥ parā̠-parā̠ iṣa̍va̠ḥ hasta̠-hasta̠ iṣa̍va̠ḥ parā̠**
+iṣa̍va̠ḥ parā̠-parā̠ iṣa̍va̠ḥ-iṣa̍va̠ḥ parā̠ tā-tā parā̠ iṣa̍va̠ḥ-iṣa̍va̠ḥ parā̠ tā**
+parā̠ tā-tā parā̠-parā̠ tā bha̍gavō-bha̍gavō tā parā̠-parā̠ tā bha̍gavō**
+tā bha̍gavō-bha̍gavō tā-tā bha̍gavō vapa-vapa bha̍gavō tā-tā bha̍gavō vapa**
+bha̍gavō vapa-vapa bha̍gavō **
+vapa**
+**
+</ghana_padamu>
+        <name>&#13;
+&#13;
+pramu̍ñcha̠ dhanva̍na̠stvamu̠bhayō̠r</name>
+        <order>9</order>
+        <padamu display_value="Sri Rudram">a79e9faec327461049521d12b4013105</padamu>
+        <padamustring>&#13;
+&#13;
+pramu̍ñcha̠ dhanva̍na̠stvamu̠bhayō̠rārtni̍ yō̠rjyām ।&#13;
+yāścha̍ tē̠ hasta̠ iṣa̍va̠ḥ parā̠ tā bha̍gavō vapa </padamustring>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 16:24:31</sys_created_on>
+        <sys_id>4365bbe6c363021049521d12b40131c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 16:24:31</sys_updated_on>
+        <word_list>pramu̍ñcha̠
+dhanva̍na̠stvamu̠bhayō̠rārtni̍
+yō̠rjyām
+tē̠
+hasta̠
+iṣa̍va̠ḥ
+parā̠
+tā
+bha̍gavō
+vapa
+</word_list>
+    </x_146833_vedamwork_ghanapadamu>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 16:27:37</sys_created_on>
+        <sys_id>64267b2ac363021049521d12b40131a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>&#13;
+&#13;
+pramu̍ñcha̠ dhanva̍na̠stvamu̠bhayō̠r</sys_name>
+        <sys_package display_value="VedamWorks" source="x_146833_vedamwork">bd6bea3397090a505f703dafe153afb6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VedamWorks">bd6bea3397090a505f703dafe153afb6</sys_scope>
+        <sys_update_name>sys_metadata_link_64267b2ac363021049521d12b40131a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 16:27:37</sys_updated_on>
+        <tablename>x_146833_vedamwork_ghanapadamu</tablename>
+    </sys_metadata_link>
+</record_update>

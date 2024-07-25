@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>0f65bbe6c363021049521d12b40131c5</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_146833_vedamwork_ghanapadamu">
+    <x_146833_vedamwork_ghanapadamu action="INSERT_OR_UPDATE">
+        <ghana_padamu>
+yā ta̠-ta̠ yā-yā ta̠ iṣu̍-śśi̠vata̍mā-iṣu̍-śśi̠vata̍mā ta̠ yā-yā ta̠ iṣu̍-śśi̠vata̍mā**
+ta̠ iṣu̍-śśi̠vata̍mā-iṣu̍-śśi̠vata̍mā ta̠-ta̠ iṣu̍-śśi̠vata̍mā śi̠va-mba̠bhūva̍-śi̠va-mba̠bhūva̍ iṣu̍-śśi̠vata̍mā ta̠-ta̠ iṣu̍-śśi̠vata̍mā śi̠va-mba̠bhūva̍**
+iṣu̍-śśi̠vata̍mā śi̠va-mba̠bhūva̍-śi̠va-mba̠bhūva̍ iṣu̍-śśi̠vata̍mā-iṣu̍-śśi̠vata̍mā śi̠va-mba̠bhūva̍ tē̠-tē̠ śi̠va-mba̠bhūva̍ iṣu̍-śśi̠vata̍mā-iṣu̍-śśi̠vata̍mā śi̠va-mba̠bhūva̍ tē̠**
+śi̠va-mba̠bhūva̍ tē̠-tē̠ śi̠va-mba̠bhūva̍-śi̠va-mba̠bhūva̍ tē̠ dhanu̍ḥ-dhanu̍ḥ tē̠ śi̠va-mba̠bhūva̍-śi̠va-mba̠bhūva̍ tē̠ dhanu̍ḥ**
+tē̠ dhanu̍ḥ-dhanu̍ḥ tē̠-tē̠ dhanu̍ḥ śa̍ra̠vyā̍-śa̍ra̠vyā̍ dhanu̍ḥ tē̠-tē̠ dhanu̍ḥ śa̍ra̠vyā̍**
+dhanu̍ḥ śa̍ra̠vyā̍-śa̍ra̠vyā̍ dhanu̍ḥ-dhanu̍ḥ śa̍ra̠vyā̍ yā-yā śa̍ra̠vyā̍ dhanu̍ḥ-dhanu̍ḥ śa̍ra̠vyā̍ yā**
+śa̍ra̠vyā̍ yā-yā śa̍ra̠vyā̍-śa̍ra̠vyā̍ yā tava̠-tava̠ yā śa̍ra̠vyā̍-śa̍ra̠vyā̍ yā tava̠**
+yā tava̠-tava̠ yā-yā tava̠ tayā̍-tayā̍ tava̠ yā-yā tava̠ tayā̍**
+tava̠ tayā̍-tayā̍ tava̠-tava̠ tayā̍ nō-nō tayā̍ tava̠-tava̠ tayā̍ nō**
+tayā̍ nō-nō tayā̍-tayā̍ nō rudra-rudra nō tayā̍-tayā̍ nō rudra**
+nō rudra-rudra nō-nō rudra mṛḍaya-mṛḍaya rudra nō-nō rudra mṛḍaya**
+rudra mṛḍaya-mṛḍaya rudra-rudra mṛḍaya tē̍-tē̍ mṛḍaya rudra-rudra mṛḍaya tē̍**
+mṛḍaya tē̍-tē̍ mṛḍaya-mṛḍaya tē̍ rudra-rudra tē̍ mṛḍaya-mṛḍaya tē̍ rudra**
+tē̍ rudra-rudra tē̍-tē̍ rudra śi̠vā-śi̠vā rudra tē̍-tē̍ rudra śi̠vā**
+rudra śi̠vā-śi̠vā rudra-rudra śi̠vā ta̠nūraghō̠rā-'pā̍pakāśinī-ta̠nūraghō̠rā-'pā̍pakāśinī śi̠vā rudra-rudra śi̠vā ta̠nūraghō̠rā-'pā̍pakāśinī**
+śi̠vā ta̠nūraghō̠rā-'pā̍pakāśinī-ta̠nūraghō̠rā-'pā̍pakāśinī śi̠vā-śi̠vā ta̠nūraghō̠rā-'pā̍pakāśinī nasta̠nuvā̠-nasta̠nuvā̠ ta̠nūraghō̠rā-'pā̍pakāśinī śi̠vā-śi̠vā ta̠nūraghō̠rā-'pā̍pakāśinī nasta̠nuvā̠**
+ta̠nūraghō̠rā-'pā̍pakāśinī nasta̠nuvā̠-nasta̠nuvā̠ ta̠nūraghō̠rā-'pā̍pakāśinī-ta̠nūraghō̠rā-'pā̍pakāśinī nasta̠nuvā̠ śanta̍mayā̠-śanta̍mayā̠ nasta̠nuvā̠ ta̠nūraghō̠rā-'pā̍pakāśinī-ta̠nūraghō̠rā-'pā̍pakāśinī nasta̠nuvā̠ śanta̍mayā̠**
+nasta̠nuvā̠ śanta̍mayā̠-śanta̍mayā̠ nasta̠nuvā̠-nasta̠nuvā̠ śanta̍mayā̠ giri̍śantā̠bhichā̍kaśīhi-giri̍śantā̠bhichā̍kaśīhi śanta̍mayā̠ nasta̠nuvā̠-nasta̠nuvā̠ śanta̍mayā̠ giri̍śantā̠bhichā̍kaśīhi**
+śanta̍mayā̠ giri̍śantā̠bhichā̍kaśīhi-giri̍śantā̠bhichā̍kaśīhi śanta̍mayā̠ **
+giri̍śantā̠bhichā̍kaśīhi**
+**
+</ghana_padamu>
+        <name>&#13;
+&#13;
+yā ta̠ iṣu̍-śśi̠vata̍mā śi̠va-mba̠bh</name>
+        <order>2</order>
+        <padamu display_value="Sri Rudram">a79e9faec327461049521d12b4013105</padamu>
+        <padamustring>&#13;
+&#13;
+yā ta̠ iṣu̍-śśi̠vata̍mā śi̠va-mba̠bhūva̍ tē̠ dhanu̍ḥ ।&#13;
+śi̠vā śa̍ra̠vyā̍ yā tava̠ tayā̍ nō rudra mṛḍaya ।&#13;
+&#13;
+yā tē̍ rudra śi̠vā ta̠nūraghō̠rā-'pā̍pakāśinī ।&#13;
+tayā̍ nasta̠nuvā̠ śanta̍mayā̠ giri̍śantā̠bhichā̍kaśīhi </padamustring>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 16:24:31</sys_created_on>
+        <sys_id>0f65bbe6c363021049521d12b40131c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 16:24:31</sys_updated_on>
+        <word_list>yā
+ta̠
+iṣu̍-śśi̠vata̍mā
+śi̠va-mba̠bhūva̍
+tē̠
+dhanu̍ḥ
+śa̍ra̠vyā̍
+yā
+tava̠
+tayā̍
+nō
+rudra
+mṛḍaya
+tē̍
+rudra
+śi̠vā
+ta̠nūraghō̠rā-'pā̍pakāśinī
+nasta̠nuvā̠
+śanta̍mayā̠
+giri̍śantā̠bhichā̍kaśīhi
+</word_list>
+    </x_146833_vedamwork_ghanapadamu>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 16:27:37</sys_created_on>
+        <sys_id>60267b2ac363021049521d12b40131a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>&#13;
+&#13;
+yā ta̠ iṣu̍-śśi̠vata̍mā śi̠va-mba̠bh</sys_name>
+        <sys_package display_value="VedamWorks" source="x_146833_vedamwork">bd6bea3397090a505f703dafe153afb6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VedamWorks">bd6bea3397090a505f703dafe153afb6</sys_scope>
+        <sys_update_name>sys_metadata_link_60267b2ac363021049521d12b40131a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 16:27:37</sys_updated_on>
+        <tablename>x_146833_vedamwork_ghanapadamu</tablename>
+    </sys_metadata_link>
+</record_update>

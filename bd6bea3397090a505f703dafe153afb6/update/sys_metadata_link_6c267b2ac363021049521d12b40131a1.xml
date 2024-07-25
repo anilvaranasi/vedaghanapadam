@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>0b65bbe6c363021049521d12b40131c6</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_146833_vedamwork_ghanapadamu">
+    <x_146833_vedamwork_ghanapadamu action="INSERT_OR_UPDATE">
+        <ghana_padamu>
+a̠sau yastā̠mrō-yastā̠mrō a̠sau-a̠sau yastā̠mrō a̍ru̠ṇa-a̍ru̠ṇa yastā̠mrō a̠sau-a̠sau yastā̠mrō a̍ru̠ṇa**
+yastā̠mrō a̍ru̠ṇa-a̍ru̠ṇa yastā̠mrō-yastā̠mrō a̍ru̠ṇa u̠ta-u̠ta a̍ru̠ṇa yastā̠mrō-yastā̠mrō a̍ru̠ṇa u̠ta**
+a̍ru̠ṇa u̠ta-u̠ta a̍ru̠ṇa-a̍ru̠ṇa u̠ta ba̠bhrussu̍ma̠ṅgala̍ḥ-ba̠bhrussu̍ma̠ṅgala̍ḥ u̠ta a̍ru̠ṇa-a̍ru̠ṇa u̠ta ba̠bhrussu̍ma̠ṅgala̍ḥ**
+u̠ta ba̠bhrussu̍ma̠ṅgala̍ḥ-ba̠bhrussu̍ma̠ṅgala̍ḥ u̠ta-u̠ta ba̠bhrussu̍ma̠ṅgala̍ḥ chē̠māgṃ-chē̠māgṃ ba̠bhrussu̍ma̠ṅgala̍ḥ u̠ta-u̠ta ba̠bhrussu̍ma̠ṅgala̍ḥ chē̠māgṃ**
+ba̠bhrussu̍ma̠ṅgala̍ḥ chē̠māgṃ-chē̠māgṃ ba̠bhrussu̍ma̠ṅgala̍ḥ-ba̠bhrussu̍ma̠ṅgala̍ḥ chē̠māgṃ ru̠drā-ru̠drā chē̠māgṃ ba̠bhrussu̍ma̠ṅgala̍ḥ-ba̠bhrussu̍ma̠ṅgala̍ḥ chē̠māgṃ ru̠drā**
+chē̠māgṃ ru̠drā-ru̠drā chē̠māgṃ-chē̠māgṃ ru̠drā a̠bhitō̍-a̠bhitō̍ ru̠drā chē̠māgṃ-chē̠māgṃ ru̠drā a̠bhitō̍**
+ru̠drā a̠bhitō̍-a̠bhitō̍ ru̠drā-ru̠drā a̠bhitō̍ di̠kṣu-di̠kṣu a̠bhitō̍ ru̠drā-ru̠drā a̠bhitō̍ di̠kṣu**
+a̠bhitō̍ di̠kṣu-di̠kṣu a̠bhitō̍-a̠bhitō̍ di̠kṣu śri̠tā-ssa̍hasra̠śō-'vaiṣā̠gṃ̠-śri̠tā-ssa̍hasra̠śō-'vaiṣā̠gṃ̠ di̠kṣu a̠bhitō̍-a̠bhitō̍ di̠kṣu śri̠tā-ssa̍hasra̠śō-'vaiṣā̠gṃ̠**
+di̠kṣu śri̠tā-ssa̍hasra̠śō-'vaiṣā̠gṃ̠-śri̠tā-ssa̍hasra̠śō-'vaiṣā̠gṃ̠ di̠kṣu-di̠kṣu śri̠tā-ssa̍hasra̠śō-'vaiṣā̠gṃ̠ hēḍa̍-hēḍa̍ śri̠tā-ssa̍hasra̠śō-'vaiṣā̠gṃ̠ di̠kṣu-di̠kṣu śri̠tā-ssa̍hasra̠śō-'vaiṣā̠gṃ̠ hēḍa̍**
+śri̠tā-ssa̍hasra̠śō-'vaiṣā̠gṃ̠ hēḍa̍-hēḍa̍ śri̠tā-ssa̍hasra̠śō-'vaiṣā̠gṃ̠-śri̠tā-ssa̍hasra̠śō-'vaiṣā̠gṃ̠ hēḍa̍ īmahē-īmahē hēḍa̍ śri̠tā-ssa̍hasra̠śō-'vaiṣā̠gṃ̠-śri̠tā-ssa̍hasra̠śō-'vaiṣā̠gṃ̠ hēḍa̍ īmahē**
+hēḍa̍ īmahē-īmahē hēḍa̍ **
+īmahē**
+**
+</ghana_padamu>
+        <name>&#13;
+&#13;
+a̠sau yastā̠mrō a̍ru̠ṇa u̠ta ba̠bhru</name>
+        <order>6</order>
+        <padamu display_value="Sri Rudram">a79e9faec327461049521d12b4013105</padamu>
+        <padamustring>&#13;
+&#13;
+a̠sau yastā̠mrō a̍ru̠ṇa u̠ta ba̠bhrussu̍ma̠ṅgala̍ḥ ।&#13;
+yē chē̠māgṃ ru̠drā a̠bhitō̍ di̠kṣu śri̠tā-ssa̍hasra̠śō-'vaiṣā̠gṃ̠ hēḍa̍ īmahē </padamustring>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 16:24:31</sys_created_on>
+        <sys_id>0b65bbe6c363021049521d12b40131c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 16:24:31</sys_updated_on>
+        <word_list>a̠sau
+yastā̠mrō
+a̍ru̠ṇa
+u̠ta
+ba̠bhrussu̍ma̠ṅgala̍ḥ
+chē̠māgṃ
+ru̠drā
+a̠bhitō̍
+di̠kṣu
+śri̠tā-ssa̍hasra̠śō-'vaiṣā̠gṃ̠
+hēḍa̍
+īmahē
+</word_list>
+    </x_146833_vedamwork_ghanapadamu>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 16:27:37</sys_created_on>
+        <sys_id>6c267b2ac363021049521d12b40131a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>&#13;
+&#13;
+a̠sau yastā̠mrō a̍ru̠ṇa u̠ta ba̠bhru</sys_name>
+        <sys_package display_value="VedamWorks" source="x_146833_vedamwork">bd6bea3397090a505f703dafe153afb6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VedamWorks">bd6bea3397090a505f703dafe153afb6</sys_scope>
+        <sys_update_name>sys_metadata_link_6c267b2ac363021049521d12b40131a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 16:27:37</sys_updated_on>
+        <tablename>x_146833_vedamwork_ghanapadamu</tablename>
+    </sys_metadata_link>
+</record_update>

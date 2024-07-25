@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>4f65bbe6c363021049521d12b40131c7</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_146833_vedamwork_ghanapadamu">
+    <x_146833_vedamwork_ghanapadamu action="INSERT_OR_UPDATE">
+        <ghana_padamu>
+nama̍stē a̠stvāyu̍dhā̠yānā̍tatāya-a̠stvāyu̍dhā̠yānā̍tatāya nama̍stē-nama̍stē a̠stvāyu̍dhā̠yānā̍tatāya dhṛ̠ṣṇavē̎-dhṛ̠ṣṇavē̎ a̠stvāyu̍dhā̠yānā̍tatāya nama̍stē-nama̍stē a̠stvāyu̍dhā̠yānā̍tatāya dhṛ̠ṣṇavē̎**
+a̠stvāyu̍dhā̠yānā̍tatāya dhṛ̠ṣṇavē̎-dhṛ̠ṣṇavē̎ a̠stvāyu̍dhā̠yānā̍tatāya-a̠stvāyu̍dhā̠yānā̍tatāya dhṛ̠ṣṇavē̎ tē̠-tē̠ dhṛ̠ṣṇavē̎ a̠stvāyu̍dhā̠yānā̍tatāya-a̠stvāyu̍dhā̠yānā̍tatāya dhṛ̠ṣṇavē̎ tē̠**
+dhṛ̠ṣṇavē̎ tē̠-tē̠ dhṛ̠ṣṇavē̎-dhṛ̠ṣṇavē̎ tē̠ namō̍-namō̍ tē̠ dhṛ̠ṣṇavē̎-dhṛ̠ṣṇavē̎ tē̠ namō̍**
+tē̠ namō̍-namō̍ tē̠-tē̠ namō̍ bā̠hubhyā̠-ntava̠-bā̠hubhyā̠-ntava̠ namō̍ tē̠-tē̠ namō̍ bā̠hubhyā̠-ntava̠**
+namō̍ bā̠hubhyā̠-ntava̠-bā̠hubhyā̠-ntava̠ namō̍-namō̍ bā̠hubhyā̠-ntava̠ dhanva̍nē-dhanva̍nē bā̠hubhyā̠-ntava̠ namō̍-namō̍ bā̠hubhyā̠-ntava̠ dhanva̍nē**
+bā̠hubhyā̠-ntava̠ dhanva̍nē-dhanva̍nē bā̠hubhyā̠-ntava̠ **
+dhanva̍nē**
+**
+</ghana_padamu>
+        <name>&#13;
+&#13;
+nama̍stē a̠stvāyu̍dhā̠yānā̍tatāya dh</name>
+        <order>13</order>
+        <padamu display_value="Sri Rudram">a79e9faec327461049521d12b4013105</padamu>
+        <padamustring>&#13;
+&#13;
+nama̍stē a̠stvāyu̍dhā̠yānā̍tatāya dhṛ̠ṣṇavē̎ ।&#13;
+u̠bhābhyā̍mu̠ta tē̠ namō̍ bā̠hubhyā̠-ntava̠ dhanva̍nē </padamustring>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 16:24:31</sys_created_on>
+        <sys_id>4f65bbe6c363021049521d12b40131c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 16:24:31</sys_updated_on>
+        <word_list>nama̍stē
+a̠stvāyu̍dhā̠yānā̍tatāya
+dhṛ̠ṣṇavē̎
+tē̠
+namō̍
+bā̠hubhyā̠-ntava̠
+dhanva̍nē
+</word_list>
+    </x_146833_vedamwork_ghanapadamu>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 16:27:37</sys_created_on>
+        <sys_id>a4267b2ac363021049521d12b40131af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>&#13;
+&#13;
+nama̍stē a̠stvāyu̍dhā̠yānā̍tatāya dh</sys_name>
+        <sys_package display_value="VedamWorks" source="x_146833_vedamwork">bd6bea3397090a505f703dafe153afb6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VedamWorks">bd6bea3397090a505f703dafe153afb6</sys_scope>
+        <sys_update_name>sys_metadata_link_a4267b2ac363021049521d12b40131af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 16:27:37</sys_updated_on>
+        <tablename>x_146833_vedamwork_ghanapadamu</tablename>
+    </sys_metadata_link>
+</record_update>

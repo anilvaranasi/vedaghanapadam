@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>8365bbe6c363021049521d12b40131c6</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_146833_vedamwork_ghanapadamu">
+    <x_146833_vedamwork_ghanapadamu action="INSERT_OR_UPDATE">
+        <ghana_padamu>
+śi̠vēna̠ vacha̍sā-vacha̍sā śi̠vēna̠-śi̠vēna̠ vacha̍sā tvā̠-tvā̠ vacha̍sā śi̠vēna̠-śi̠vēna̠ vacha̍sā tvā̠**
+vacha̍sā tvā̠-tvā̠ vacha̍sā-vacha̍sā tvā̠ giri̠śāchChā̍-giri̠śāchChā̍ tvā̠ vacha̍sā-vacha̍sā tvā̠ giri̠śāchChā̍**
+tvā̠ giri̠śāchChā̍-giri̠śāchChā̍ tvā̠-tvā̠ giri̠śāchChā̍ vadāmasi-vadāmasi giri̠śāchChā̍ tvā̠-tvā̠ giri̠śāchChā̍ vadāmasi**
+giri̠śāchChā̍ vadāmasi-vadāmasi giri̠śāchChā̍-giri̠śāchChā̍ vadāmasi na̠-ssarva̠mijjaga̍daya̠kṣmagṃ-na̠-ssarva̠mijjaga̍daya̠kṣmagṃ vadāmasi giri̠śāchChā̍-giri̠śāchChā̍ vadāmasi na̠-ssarva̠mijjaga̍daya̠kṣmagṃ**
+vadāmasi na̠-ssarva̠mijjaga̍daya̠kṣmagṃ-na̠-ssarva̠mijjaga̍daya̠kṣmagṃ vadāmasi-vadāmasi na̠-ssarva̠mijjaga̍daya̠kṣmagṃ su̠manā̠-su̠manā̠ na̠-ssarva̠mijjaga̍daya̠kṣmagṃ vadāmasi-vadāmasi na̠-ssarva̠mijjaga̍daya̠kṣmagṃ su̠manā̠**
+na̠-ssarva̠mijjaga̍daya̠kṣmagṃ su̠manā̠-su̠manā̠ na̠-ssarva̠mijjaga̍daya̠kṣmagṃ-na̠-ssarva̠mijjaga̍daya̠kṣmagṃ su̠manā̠ asa̍t-asa̍t su̠manā̠ na̠-ssarva̠mijjaga̍daya̠kṣmagṃ-na̠-ssarva̠mijjaga̍daya̠kṣmagṃ su̠manā̠ asa̍t**
+su̠manā̠ asa̍t-asa̍t su̠manā̠ **
+asa̍t**
+**
+</ghana_padamu>
+        <name>&#13;
+&#13;
+śi̠vēna̠ vacha̍sā tvā̠ giri̠śāchChā̍</name>
+        <order>4</order>
+        <padamu display_value="Sri Rudram">a79e9faec327461049521d12b4013105</padamu>
+        <padamustring>&#13;
+&#13;
+śi̠vēna̠ vacha̍sā tvā̠ giri̠śāchChā̍ vadāmasi ।&#13;
+yathā̍ na̠-ssarva̠mijjaga̍daya̠kṣmagṃ su̠manā̠ asa̍t </padamustring>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 16:24:31</sys_created_on>
+        <sys_id>8365bbe6c363021049521d12b40131c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 16:24:31</sys_updated_on>
+        <word_list>śi̠vēna̠
+vacha̍sā
+tvā̠
+giri̠śāchChā̍
+vadāmasi
+na̠-ssarva̠mijjaga̍daya̠kṣmagṃ
+su̠manā̠
+asa̍t
+</word_list>
+    </x_146833_vedamwork_ghanapadamu>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 16:27:37</sys_created_on>
+        <sys_id>24267b2ac363021049521d12b40131b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>&#13;
+&#13;
+śi̠vēna̠ vacha̍sā tvā̠ giri̠śāchChā̍</sys_name>
+        <sys_package display_value="VedamWorks" source="x_146833_vedamwork">bd6bea3397090a505f703dafe153afb6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VedamWorks">bd6bea3397090a505f703dafe153afb6</sys_scope>
+        <sys_update_name>sys_metadata_link_24267b2ac363021049521d12b40131b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 16:27:37</sys_updated_on>
+        <tablename>x_146833_vedamwork_ghanapadamu</tablename>
+    </sys_metadata_link>
+</record_update>

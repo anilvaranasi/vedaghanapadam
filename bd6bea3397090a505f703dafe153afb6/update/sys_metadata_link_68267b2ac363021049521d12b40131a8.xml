@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>4765bbe6c363021049521d12b40131c6</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_146833_vedamwork_ghanapadamu">
+    <x_146833_vedamwork_ghanapadamu action="INSERT_OR_UPDATE">
+        <ghana_padamu>
+adhya̍vōchadadhiva̠ktā pra̍tha̠mō-pra̍tha̠mō adhya̍vōchadadhiva̠ktā-adhya̍vōchadadhiva̠ktā pra̍tha̠mō daivyō̍-daivyō̍ pra̍tha̠mō adhya̍vōchadadhiva̠ktā-adhya̍vōchadadhiva̠ktā pra̍tha̠mō daivyō̍**
+pra̍tha̠mō daivyō̍-daivyō̍ pra̍tha̠mō-pra̍tha̠mō daivyō̍ bhi̠ṣak-bhi̠ṣak daivyō̍ pra̍tha̠mō-pra̍tha̠mō daivyō̍ bhi̠ṣak**
+daivyō̍ bhi̠ṣak-bhi̠ṣak daivyō̍-daivyō̍ bhi̠ṣak sarvā̎mja̠mbhaya̠n-thsarvā̎ścha-sarvā̎mja̠mbhaya̠n-thsarvā̎ścha bhi̠ṣak daivyō̍-daivyō̍ bhi̠ṣak sarvā̎mja̠mbhaya̠n-thsarvā̎ścha**
+bhi̠ṣak sarvā̎mja̠mbhaya̠n-thsarvā̎ścha-sarvā̎mja̠mbhaya̠n-thsarvā̎ścha bhi̠ṣak-bhi̠ṣak sarvā̎mja̠mbhaya̠n-thsarvā̎ścha yātudhā̠nya̍ḥ-yātudhā̠nya̍ḥ sarvā̎mja̠mbhaya̠n-thsarvā̎ścha bhi̠ṣak-bhi̠ṣak sarvā̎mja̠mbhaya̠n-thsarvā̎ścha yātudhā̠nya̍ḥ**
+sarvā̎mja̠mbhaya̠n-thsarvā̎ścha yātudhā̠nya̍ḥ-yātudhā̠nya̍ḥ sarvā̎mja̠mbhaya̠n-thsarvā̎ścha **
+yātudhā̠nya̍ḥ**
+**
+</ghana_padamu>
+        <name>&#13;
+&#13;
+adhya̍vōchadadhiva̠ktā pra̍tha̠mō da</name>
+        <order>5</order>
+        <padamu display_value="Sri Rudram">a79e9faec327461049521d12b4013105</padamu>
+        <padamustring>&#13;
+&#13;
+adhya̍vōchadadhiva̠ktā pra̍tha̠mō daivyō̍ bhi̠ṣak ।&#13;
+ahīg̍ścha̠ sarvā̎mja̠mbhaya̠n-thsarvā̎ścha yātudhā̠nya̍ḥ </padamustring>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 16:24:31</sys_created_on>
+        <sys_id>4765bbe6c363021049521d12b40131c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 16:24:31</sys_updated_on>
+        <word_list>adhya̍vōchadadhiva̠ktā
+pra̍tha̠mō
+daivyō̍
+bhi̠ṣak
+sarvā̎mja̠mbhaya̠n-thsarvā̎ścha
+yātudhā̠nya̍ḥ
+</word_list>
+    </x_146833_vedamwork_ghanapadamu>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 16:27:37</sys_created_on>
+        <sys_id>68267b2ac363021049521d12b40131a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>&#13;
+&#13;
+adhya̍vōchadadhiva̠ktā pra̍tha̠mō da</sys_name>
+        <sys_package display_value="VedamWorks" source="x_146833_vedamwork">bd6bea3397090a505f703dafe153afb6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VedamWorks">bd6bea3397090a505f703dafe153afb6</sys_scope>
+        <sys_update_name>sys_metadata_link_68267b2ac363021049521d12b40131a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 16:27:37</sys_updated_on>
+        <tablename>x_146833_vedamwork_ghanapadamu</tablename>
+    </sys_metadata_link>
+</record_update>

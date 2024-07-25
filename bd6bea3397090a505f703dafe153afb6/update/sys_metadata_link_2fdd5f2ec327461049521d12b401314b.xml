@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>802d9f2ec327461049521d12b4013115</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_146833_vedamwork_ghanapadamu">
+    <x_146833_vedamwork_ghanapadamu action="INSERT_OR_UPDATE">
+        <ghana_padamu>అన్తాకాయ మృత్యవే-మృత్యవే అన్తాకాయ-అన్తాకాయ మృత్యవే నమః-నమః మృత్యవే అన్తాకాయ-అన్తాకాయ మృత్యవే నమః**
+మృత్యవే నమః-నమః మృత్యవే-మృత్యవే నమః ప్రాణా-ప్రాణా నమః మృత్యవే-మృత్యవే నమః ప్రాణా**
+నమః ప్రాణా-ప్రాణా నమః-నమః ప్రాణా అపానాః-అపానాః ప్రాణా నమః-నమః ప్రాణా అపానాః**
+ప్రాణా అపానాః-అపానాః ప్రాణా-ప్రాణా అపానాః ఇహ-ఇహ అపానాః ప్రాణా-ప్రాణా అపానాః ఇహ**
+అపానాః ఇహ-ఇహ అపానాః-అపానాః ఇహ తే-తే ఇహ అపానాః-అపానాః ఇహ తే**
+ఇహ తే-తే ఇహ-ఇహ తే రమన్తామ్-రమన్తామ్ తే ఇహ-ఇహ తే రమన్తామ్**
+తే రమన్తామ్-రమన్తామ్ తే-తే రమన్తామ్ ఇహ-ఇహ రమన్తామ్ తే-తే రమన్తామ్ ఇహ**
+రమన్తామ్ ఇహ-ఇహ రమన్తామ్-రమన్తామ్ ఇహ ఆయమ్-ఆయమ్ ఇహ రమన్తామ్-రమన్తామ్ ఇహ ఆయమ్**
+ఇహ ఆయమ్-ఆయమ్ ఇహ-ఇహ ఆయమ్ అస్తు-అస్తు ఆయమ్ ఇహ-ఇహ ఆయమ్ అస్తు**
+ఆయమ్ అస్తు-అస్తు ఆయమ్-ఆయమ్ అస్తు వురుషః-వురుషః అస్తు ఆయమ్-ఆయమ్ అస్తు వురుషః**
+అస్తు వురుషః-వురుషః అస్తు-అస్తు వురుషః సహ-సహ వురుషః అస్తు-అస్తు వురుషః సహ**
+వురుషః సహ-సహ వురుషః-వురుషః సహ అసునా-అసునా సహ వురుషః-వురుషః సహ అసునా**
+సహ అసునా-అసునా సహ-సహ అసునా సూర్యస్య-సూర్యస్య అసునా సహ-సహ అసునా సూర్యస్య**
+అసునా సూర్యస్య-సూర్యస్య అసునా-అసునా సూర్యస్య భాగే-భాగే సూర్యస్య అసునా-అసునా సూర్యస్య భాగే**
+సూర్యస్య భాగే-భాగే సూర్యస్య-సూర్యస్య భాగే అమృతన్య-అమృతన్య భాగే సూర్యస్య-సూర్యస్య భాగే అమృతన్య**
+భాగే అమృతన్య-అమృతన్య భాగే-భాగే అమృతన్య లోకే-లోకే అమృతన్య భాగే-భాగే అమృతన్య లోకే**
+అమృతన్య లోకే-లోకే అమృతన్య **
+లోకే**
+</ghana_padamu>
+        <name>అన్తాకాయ మృత్యవే నమః</name>
+        <order/>
+        <padamu display_value="అన్తాకాయ మృత్యవే నమః">91c27233974d0a505f703dafe153afcd</padamu>
+        <padamustring/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 14:38:28</sys_created_on>
+        <sys_id>802d9f2ec327461049521d12b4013115</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 14:41:07</sys_updated_on>
+        <word_list/>
+    </x_146833_vedamwork_ghanapadamu>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 14:41:36</sys_created_on>
+        <sys_id>2fdd5f2ec327461049521d12b401314b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>అన్తాకాయ మృత్యవే నమః</sys_name>
+        <sys_package display_value="VedamWorks" source="x_146833_vedamwork">bd6bea3397090a505f703dafe153afb6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VedamWorks">bd6bea3397090a505f703dafe153afb6</sys_scope>
+        <sys_update_name>sys_metadata_link_2fdd5f2ec327461049521d12b401314b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 16:27:37</sys_updated_on>
+        <tablename>x_146833_vedamwork_ghanapadamu</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -7,7 +7,7 @@
         <script><![CDATA[var sDebug = '';
 var wordList = '';
 var grPadamu = new GlideRecord('x_146833_vedamwork_padamu');
-grPadamu.get('91c27233974d0a505f703dafe153afcd');
+grPadamu.get('bbbad7e6c327461049521d12b401318d');
 var wordArray = [];
 var padamuString = grPadamu.padamu;
 var innerString = '';
@@ -73,14 +73,14 @@ function updateGhanapadam(ghanapadam) {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-27 06:14:26</sys_created_on>
         <sys_id>2baa6bfb97414a505f703dafe153af03</sys_id>
-        <sys_mod_count>33</sys_mod_count>
+        <sys_mod_count>34</sys_mod_count>
         <sys_name>VA-CountWords</sys_name>
         <sys_package display_value="VedamWorks" source="x_146833_vedamwork">bd6bea3397090a505f703dafe153afb6</sys_package>
         <sys_policy/>
         <sys_scope display_value="VedamWorks">bd6bea3397090a505f703dafe153afb6</sys_scope>
         <sys_update_name>sys_script_fix_2baa6bfb97414a505f703dafe153af03</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-27 09:22:29</sys_updated_on>
+        <sys_updated_on>2024-07-25 14:30:37</sys_updated_on>
         <unloadable>false</unloadable>
     </sys_script_fix>
 </record_update>
